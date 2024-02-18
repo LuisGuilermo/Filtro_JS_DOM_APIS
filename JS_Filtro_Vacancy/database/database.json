@@ -1,0 +1,86 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "hola@gmail.com",
+      "nameCompany": "Riwi",
+      "password": "riwi2024",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "password": "riwi2024",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132"
+    },
+    {
+      "id": "c95d",
+      "email": "hola@gmail.com",
+      "password": "123",
+      "nameCompany": "213",
+      "imagenCompany": ""
+    },
+    {
+      "id": "163e",
+      "email": "",
+      "password": "",
+      "nameCompany": "",
+      "imagenCompany": ""
+    },
+    {
+      "id": "596b",
+      "email": "kevin@riwi.io",
+      "password": "123",
+      "nameCompany": "Zackors",
+      "imagenCompany": ""
+    }
+  ],
+  "jobs": [
+    {
+      "id": "3add",
+      "name": "123123",
+      "experience": "12321312",
+      "salary": "3123123",
+      "location": "123123",
+      "modality": "In person",
+      "description": "holaasasas",
+      "companyId": "2034",
+      "date": "2024-02-12"
+    },
+    {
+      "id": "dcbf",
+      "name": "sotfware develomp",
+      "experience": "47",
+      "salary": "1800000",
+      "location": "Medellin",
+      "modality": "remote",
+      "description": "Se necesitan desarrolladores de sotfware capaces de utilizar HTML,CSS,JS y JSON-SERVER",
+      "companyId": "2034",
+      "date": "2024-02-12"
+    },
+    {
+      "name": "123123",
+      "experience": "123123",
+      "salary": "12312",
+      "location": "Medellin",
+      "modality": "In person",
+      "description": "Upload",
+      "companyId": "2034",
+      "id": "0bc6"
+    },
+    {
+      "id": "26da",
+      "name": "123123",
+      "experience": "123123",
+      "salary": "123123",
+      "location": "123123",
+      "modality": "In person",
+      "description": "123123123123",
+      "companyId": "596b",
+      "date": "2024-02-12"
+    }
+  ]
+}
